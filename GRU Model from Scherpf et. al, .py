@@ -1,4 +1,5 @@
 '''
+
 Here's a brief overview:
 
 Preprocessing Function: The preprocess_data function correctly reads the data, selects the necessary features, applies normalization using MinMaxScaler, and reshapes the data for RNN input.
