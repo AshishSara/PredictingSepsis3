@@ -1,6 +1,9 @@
 '''
+This paper attempts to build the model described in the paper: Predicting sepsis with a recurrent neural network using the MIMIC III database
+by Matthieu Scherpf, Felix Gräßer, Hagen Malberg, Sebastian Zaunseder. Here is the link to the paper: https://www.sciencedirect.com/science/article/pii/S0010482519302720
 
-Here's a brief overview:
+
+Here's a brief overview of the code:
 
 Preprocessing Function: The preprocess_data function correctly reads the data, selects the necessary features, applies normalization using MinMaxScaler, and reshapes the data for RNN input.
 
